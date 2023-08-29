@@ -10,6 +10,9 @@ Tenho 26 anos, moro em Recife/PE e estou embarcada há pouco mais de 6 meses nes
 - 😄 Pronomes: Ela/Dela
 - ⚡ Curiosidade: Sou entusiasta da indústria cinematográfica, posso facilmente acompanhar mais de três séries e saber exatamente o que está acontecendo em cada uma, além de respirar música e cantar um pouquinho(Mas não conta pra ninguém rsrs)
 
+
+<br>
+<br>
 ## Ferramentas e Tecnologias
 
 <img loading="lazy" alt="Avatar 2" src="https://i.ibb.co/Z2h6DcY/icon.png" align="right" width="272px" height="327px" border="0"/>
@@ -17,7 +20,10 @@ Tenho 26 anos, moro em Recife/PE e estou embarcada há pouco mais de 6 meses nes
 <img loading="lazy" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50" /> <img loading="lazy" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50" /> <img loading="lazy" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" /> <img loading="lazy" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" /> <img loading="lazy" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50" /> <img loading="lazy" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" /> <img loading="lazy" alt="eslint" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" width="50" height="50" />
 
 <img loading="lazy" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" /> <img loading="lazy" alt="slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="50" height="50" /> <img loading="lazy" alt="trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="50" height="50" /> <img loading="lazy" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" /> <img loading="lazy" alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" /> <img loading="lazy" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50" /> <img loading="lazy" alt="canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" height="50" /> <img loading="lazy" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
-          
+
+
+<br>
+<br>
 ## Contatos:
 
 <div>
@@ -26,6 +32,9 @@ Tenho 26 anos, moro em Recife/PE e estou embarcada há pouco mais de 6 meses nes
 <a href="https://instagram.com/ninacordeiro6" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
 </div>
 
+
+<br>
+<br>
 <div>
 <a href="https://github.com/Marinacb7">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinacb7&layout=compact&langs_count=7&theme=dracula"/>
