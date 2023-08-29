@@ -13,6 +13,7 @@ Tenho 26 anos, moro em Recife/PE e estou embarcada há pouco mais de 6 meses nes
 
 <br>
 <br>
+
 ## Ferramentas e Tecnologias
 
 <img loading="lazy" alt="Avatar 2" src="https://i.ibb.co/Z2h6DcY/icon.png" align="right" width="272px" height="327px" border="0"/>
@@ -24,6 +25,7 @@ Tenho 26 anos, moro em Recife/PE e estou embarcada há pouco mais de 6 meses nes
 
 <br>
 <br>
+
 ## Contatos:
 
 <div>
@@ -35,6 +37,7 @@ Tenho 26 anos, moro em Recife/PE e estou embarcada há pouco mais de 6 meses nes
 
 <br>
 <br>
+
 <div>
 <a href="https://github.com/Marinacb7">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinacb7&layout=compact&langs_count=7&theme=dracula"/>
