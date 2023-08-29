@@ -1,4 +1,4 @@
-<img loading="lazy" alt="Avatar" src="https://i.ibb.co/yNRkgfJ/begin.png" align="right" width="250px" height="300px" border="0"/>
+<img loading="lazy" alt="Avatar" src="https://i.ibb.co/yNRkgfJ/begin.png" align="right" width="260px" height="320px" border="0"/>
 
 # Olá, me chamo Marina ! 
 ## Bem vindo ao meu perfil GitHub 👋
