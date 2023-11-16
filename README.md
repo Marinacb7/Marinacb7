@@ -5,7 +5,7 @@
 
 Tenho 26 anos, moro em Recife/PE e estou embarcada há pouco mais de 6 meses nessa aventura no mundo da programação. Especialista em passar raiva com bugs, mas também expert em encontrar a chave do problema, afinal, é sobre isso ne ?!  ❤
 
-- 🌱 Atualmente estou aprendendo Python, Java e C#
+- 🌱 Atualmente estou aprendendo Python e Desenvolvimento de Jogos e sempre aprofundando meus conhecimentos
 - 💬 Pergunte-me sobre minha trajetória profissional, teremos longas horas de conversa hahah
 - 😄 Pronomes: Ela/Dela
 - ⚡ Curiosidade: Sou entusiasta da indústria cinematográfica, posso facilmente acompanhar mais de três séries e saber exatamente o que está acontecendo em cada uma, além de respirar música e cantar um pouquinho(Mas não conta pra ninguém rsrs)
